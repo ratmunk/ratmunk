@@ -5,7 +5,8 @@
 🍀개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하는 걸 즐깁니다<br/>
 💡 NOW I’m currently learning Basic Programming skills like JAVA, PYTHON, JavaScript.Spring framework, Spring Boot
    And also learning DB like Oracle, MySQL <br/>
-📫 How to contact me : ratmunk21@gmail.com </p>
+📫 How to contact me : ratmunk21@gmail.com 
+💡 my notion : https://www.notion.so/Ha-SeungHyun-02f701a4595f4eb3bc8b1b8786a35559 </p>
 <br>
 </br>
 
