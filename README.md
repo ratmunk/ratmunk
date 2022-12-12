@@ -37,8 +37,5 @@ Backend engineer
 
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=younglee0280&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younglee0280&layout=compact&theme=vue&hide_border=true" />
-
-
+  
 
