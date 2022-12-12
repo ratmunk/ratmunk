@@ -37,5 +37,6 @@ Backend engineer
 
 
 <!-- status bar -->
-  
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ratmunk&show_icons=true&theme=tokyonight)
 
