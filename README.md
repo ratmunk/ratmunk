@@ -40,3 +40,5 @@ Backend engineer
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ratmunk&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratmunk&layout=compact&theme=tokyonight)
+
